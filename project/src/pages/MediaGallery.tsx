@@ -248,8 +248,8 @@ const MediaGallery = ({ initialItems }: { initialItems?: MediaItem[] }) => {
       type: 'image',
       title: 'Cute you ',
       description: 'Our secret spot where we watched the sun melt into the sea, sharing dreams over a picnic blanket.',
-      thumbnail: '/src/assets/places/kuttu cute.jpeg',
-      url: '/src/assets/places/kuttu cute.jpeg',
+      thumbnail: '/assets/places/kuttu cute.jpeg',
+      url: '/assets/places/kuttu cute.jpeg',
     },
     {
       id: 4,
@@ -257,7 +257,7 @@ const MediaGallery = ({ initialItems }: { initialItems?: MediaItem[] }) => {
       title: 'Mountain Viewpoint',
       description: 'That trail where we got lost but found a view that took our breath away, just like you do every day.',
       thumbnail: 'https://images.pexels.com/photos/1033729/pexels-photo-1033729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750',
-      url: '/src/assets/VID_42880319_220630_118.mp4',
+      url: '/assets/VID_42880319_220630_118.mp4',
       duration: 138,
     },
     {
@@ -388,8 +388,8 @@ export const MediaGalleryTestCases = () => {
       type: 'image',
       title: 'Cute you ',
       description: 'Our secret spot where we watched the sun melt into the sea, sharing dreams over a picnic blanket.',
-      thumbnail: '/src/assets/places/kuttu cute.jpeg',
-      url: '/src/assets/places/kuttu cute.jpeg',
+      thumbnail: '/assets/places/kuttu cute.jpeg',
+      url: '/assets/places/kuttu cute.jpeg',
     },
     {
       id: 4,
@@ -405,7 +405,7 @@ export const MediaGalleryTestCases = () => {
       title: 'Mountain Viewpoint',
       description: 'That trail where we got lost but found a view that took our breath away, just like you do every day.',
       thumbnail: 'https://images.pexels.com/photos/1033729/pexels-photo-1033729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750',
-      url: '/src/assets/VID_42880319_220630_118.mp4',
+      url: '/assets/VID_42880319_220630_118.mp4',
       duration: 138,
     },
     {

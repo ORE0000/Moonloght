@@ -9,11 +9,11 @@ interface StarMapProps {
 }
 
 const StarMap = ({
-  moonImageSrc = '/src/assets/moon-4k.jpg',
+  moonImageSrc = '/assets/moon-4k.jpg',
   couplePhotos = [
-    '/src/assets/IMG_4303.JPG', // Replace with actual couple photo URLs
-    '/src/assets/PXL_20240521_211705437.jpg',
-    '/src/assets/PXL_20240521_211722077.jpg'
+    '/assets/IMG_4303.JPG', // Replace with actual couple photo URLs
+    '/assets/PXL_20240521_211705437.jpg',
+    '/assets/PXL_20240521_211722077.jpg'
   ]
 }: StarMapProps) => {
   const canvasRef = useRef<HTMLCanvasElement>(null);

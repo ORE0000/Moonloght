@@ -26,8 +26,8 @@ const places: Place[] = [
     description: 'Our secret spot where we watched the sun melt into the sea, sharing dreams over a picnic blanket.',
     media: {
       type: 'image',
-      url: '/src/assets/PXL_20241204_174742524.jpg',
-      thumbnail: '/src/assets/PXL_20241204_174742524.jpg',
+      url: '/assets/PXL_20241204_174742524.jpg',
+      thumbnail: '/assets/PXL_20241204_174742524.jpg',
     },
   },
   {
@@ -36,8 +36,8 @@ const places: Place[] = [
     description: 'Our beloved bench where we talked for hours, planning our future under the shade of ancient oaks.',
     media: {
       type: 'image',
-      url: '/src/assets/PXL_20241204_194641530.jpg',
-      thumbnail: '/src/assets/PXL_20241204_194641530.jpg',
+      url: '/assets/PXL_20241204_194641530.jpg',
+      thumbnail: '/assets/PXL_20241204_194641530.jpg',
     },
   },
   {
@@ -46,7 +46,7 @@ const places: Place[] = [
     description: 'That trail where we got lost but found a view that took our breath away, just like you do every day.',
     media: {
       type: 'video',
-      url: '/src/assets/PXL_20250315_171002284~3.mp4',
+      url: '/assets/PXL_20250315_171002284~3.mp4',
       thumbnail: 'https://images.pexels.com/photos/1033729/pexels-photo-1033729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750',
     },
   },

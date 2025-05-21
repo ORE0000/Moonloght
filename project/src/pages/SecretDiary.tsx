@@ -2,10 +2,10 @@ import { useState, useEffect, useRef } from 'react';
 import { motion } from 'framer-motion';
 import { Lock, Heart } from 'lucide-react';
 
-// Import assets (ensure these files are in your project/src/assets folder)
-import blankLetterImage from '/src/assets/blank-letter.png';
-import dragonImage from '/src/assets/dragon.png';
-import penWriteSound from '/src/assets/Sounds/pen-write-35730.mp3';
+// Import assets (ensure these files are in your project/assets folder)
+import blankLetterImage from '/assets/blank-letter.png';
+import dragonImage from '/assets/dragon.png';
+import penWriteSound from '/assets/Sounds/pen-write-35730.mp3';
 
 interface Letter {
   id: string;
