@@ -12,7 +12,7 @@ interface AudioPlayerProps {
 }
 
 const defaultPlaylist = [
-  '../assets/Sounds/Connie Francis - You can ask the flowers I sit for hours (Pretty Little Baby) (Lyrics Terjemahan).mp3',
+  '/src/assets/Sounds/Connie Francis - You can ask the flowers I sit for hours (Pretty Little Baby) (Lyrics Terjemahan).mp3',
 ];
 
 const AudioPlayer = ({ 

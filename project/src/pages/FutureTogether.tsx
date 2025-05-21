@@ -51,7 +51,7 @@ const FutureTogether = () => {
       year: '2025 - Future',
       title: 'Our Dream Vacation',
       description: 'We finally take that trip to Switzerland we\'ve been planning. I can already picture us having a picnic by the mountains.',
-      image: '../assets/places/Switzerland.jpg',
+      image: '/src/assets/places/Switzerland.jpg',
     },
     {
       year: '2026 - Future ',

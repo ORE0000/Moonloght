@@ -12,7 +12,7 @@ const timelineEvents = [
     description: "Ye dekho… tumne kitni funny video bheji thi us din 😂🎥 insta pe",
     media: {
       type: "video",
-      url: "../assets/VID_42880319_220630_118.mp4",
+      url: "/src/assets/VID_42880319_220630_118.mp4",
       thumbnail: "https://images.pexels.com/photos/1033729/pexels-photo-1033729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750",
     },
   },
@@ -22,8 +22,8 @@ const timelineEvents = [
     description: "Our second trip together, laughter, memories, and moments we did not realize would mean so much later. A mutual bond slowly turning into something more. 💖",
     media: {
       type: "image",
-      url: "../assets/IMG_1577.JPG",
-      thumbnail: "../assets/IMG-20241208-WA0068.jpg",
+      url: "/src/assets/IMG_1577.JPG",
+      thumbnail: "/src/assets/IMG-20241208-WA0068.jpg",
     },
   },
   {
@@ -32,8 +32,8 @@ const timelineEvents = [
     description: "You were fun to be around, and I did not even know why — it just felt easy, natural, and warm. 😊🌿✨",
     media: {
       type: "image",
-      url: "../assets/IMG-20240804-WA0008.jpg",
-      thumbnail: "../assets/IMG-20240804-WA0008.jpg",
+      url: "/src/assets/IMG-20240804-WA0008.jpg",
+      thumbnail: "/src/assets/IMG-20240804-WA0008.jpg",
     },
   },
   {
@@ -42,7 +42,7 @@ const timelineEvents = [
     description: "Spending the evening with friends was special, but getting to talk to you by the riverside in Haridwar made it unforgettable. The calm water, the soft breeze, and your presence — it all just felt right. 🌅💬🌊✨",
     media: {
       type: "image",
-      url: "../assets/IMG_1886-1.jpg",
+      url: "/src/assets/IMG_1886-1.jpg",
       thumbnail: "",
     },
   },
@@ -52,8 +52,8 @@ const timelineEvents = [
     description: "We went to Kempt Falls with all our friends, but it wasn’t just the place that made it special. We shared little adventures, laughs, and moments that brought us closer in the most unexpected ways.",
     media: {
       type: "image",
-      url: "../assets/places/May222024.jpg",
-      thumbnail: "../assets/places/May222024.jpg",
+      url: "/src/assets/places/May222024.jpg",
+      thumbnail: "/src/assets/places/May222024.jpg",
     },
   },
   {
@@ -62,8 +62,8 @@ const timelineEvents = [
     description: "Isse humne date toh nahi kaha, par feel waise hi tha — sirf hum dono, bina kisi friends ke. Raipur ke Shiv Mandir jaana tha, par uss din main tumhein ek naye tareeke mein samajh paya. Tumhare thoughts itne soulful the... aur tumhare jawab un sawaalon ke liye the jo shayad main khud bhi samajh nahi paaya tha.",
     media: {
       type: "image",
-      url: "../assets/IMG_4303.JPG",
-      thumbnail: "../assets/IMG_4303.JPG",
+      url: "/src/assets/IMG_4303.JPG",
+      thumbnail: "/src/assets/IMG_4303.JPG",
     },
   },
   {
@@ -72,8 +72,8 @@ const timelineEvents = [
     description: "You knew I loved anime, and with that soft smile, you looked at me and said, 'Isn’t the moon beautiful?' — a line so simple, yet filled with meaning. I did not realize it then… that you were actually proposing to me in the most subtle, heartfelt way. And like a fool, I missed the moment — but still, unintentionally, I looked at you and replied, Yes, it is. Funny how even without knowing, my heart said yes.",
     media: {
       type: "image",
-      url: "../assets/moon-4k.jpg",
-      thumbnail: "../assets/moon-4k.jpg",
+      url: "/src/assets/moon-4k.jpg",
+      thumbnail: "/src/assets/moon-4k.jpg",
     },
   },
   {
@@ -82,8 +82,8 @@ const timelineEvents = [
     description: "Maine finally himmat karke chat pe propose kiya. Dil tez tez dhadak raha tha, par main apni feelings bata hi di. Jab tumne haan kaha, dono thoda shocked the. 💌🌟 Thoda awkward bhi the, par sach mein yeh sab real lag raha tha. 📞💞",
     media: {
       type: "image",
-      url: "../assets/IMG-20241212-WA0001.jpg",
-      thumbnail: "../assets/IMG-20241212-WA0001.jpg",
+      url: "/src/assets/IMG-20241212-WA0001.jpg",
+      thumbnail: "/src/assets/IMG-20241212-WA0001.jpg",
     },
   },
   {
@@ -92,7 +92,7 @@ const timelineEvents = [
     description: "Phir humne date karna start kiya, though long distance thi, par distance ne hamari baatein kam nahi hone di. Roz subah ek dusre ko good morning bolte, din bhar ki choti-choti updates, videos aur photos share karte rahe. Raat ko late tak batein hoti, kabhi hasi-mazaak, kabhi serious baatein — sab kuch share karte rahe, apni feelings ko aur understand karte hue.",
     media: {
       type: "video",
-      url: "../assets/VID_20550821_063547_594.mp4",
+      url: "/src/assets/VID_20550821_063547_594.mp4",
       thumbnail: "https://images.pexels.com/photos/1033729/pexels-photo-1033729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750",
     },
   },
@@ -102,8 +102,8 @@ const timelineEvents = [
     description: "Aur phir August 27, 2024 — tumhara birthday tha. Hum abhi bhi long distance mein. Din mein maine kuch phool tod ke ek chhoti si video banayi — simple si, bas isliye because i missed you. Caption diya tha: 'Not the flowers you like, but by the man you love'. Thoda corny hai shayad ye line.",
     media: {
       type: "video",
-      url: "../assets/VID_48980607_135117_551.mp4",
-      thumbnail: "../assets/places/flowers for you .jpg",
+      url: "/src/assets/VID_48980607_135117_551.mp4",
+      thumbnail: "/src/assets/places/flowers for you .jpg",
     },
   },
   {
@@ -112,8 +112,8 @@ const timelineEvents = [
     description: "Aur next day ko mera birthday tha — can you believe that coincidence? Ek din tumhara, agle din mera. Yeh cheez hamesha special rahegi. Tumne mere liye ek handmade card banaya tha, jiska title tha 'My Batman Pookie' — and honestly, mujhe woh bahut pasand aaya.",
     media: {
       type: "image",
-      url: "../assets/IMG-20240828-WA0003.jpg",
-      thumbnail: "../assets/IMG-20240828-WA0003.jpg",
+      url: "/src/assets/IMG-20240828-WA0003.jpg",
+      thumbnail: "/src/assets/IMG-20240828-WA0003.jpg",
     },
   },
   {
@@ -122,8 +122,8 @@ const timelineEvents = [
     description: "December 2, 2024 ko hamare college mein convocation event tha — aur uss din humein finally ek bahana mil gaya ek dusre se milne ka. Uss long distance ke baad jab hum mile, woh moment sach mein special tha. Itne time baad saamne dekhna, bina screen ke, woh feeling alag hi thi. Sab kuch ek second ke liye ruk gaya tha.",
     media: {
       type: "image",
-      url: "../assets/IMG-20250131-WA0001.jpg",
-      thumbnail: "../assets/IMG-20250131-WA0001.jpg",
+      url: "/src/assets/IMG-20250131-WA0001.jpg",
+      thumbnail: "/src/assets/IMG-20250131-WA0001.jpg",
     },
   },
   {
@@ -132,8 +132,8 @@ const timelineEvents = [
     description: "December 3, 2024 ko humein officially degree mil gayi 🎓. Kaafi shai tha, but special in its own way. Uss din I guess sabko officially pata chle gaya tha that we are dating. Humne saath mein photos liye, thoda campus ghooma, chill kiya. Ek point pe bas chup-chaap college ko dekha — socha, pata nahi phir kab aana hoga yahaan, kisi reason se bhi. 🏫💬",
     media: {
       type: "image",
-      url: "../assets/IMG-20241203-WA0061.jpg",
-      thumbnail: "../assets/IMG-20241203-WA0061.jpg",
+      url: "/src/assets/IMG-20241203-WA0061.jpg",
+      thumbnail: "/src/assets/IMG-20241203-WA0061.jpg",
     },
   },
   {
@@ -142,8 +142,8 @@ const timelineEvents = [
     description: "December 4, 2024 ko hum sab friends ke saath Dhanolti gaye. 🏔️ Lekin is baar trip thoda special tha — kyunki is baar tum meri scooty pe thi, aur hum sirf dost nahi, balki couple ban chuke the. 💛 Pehli baar kisi trip pe tum itne close thi — woh ride, thandi hawa, aur tumhara mere peeche baithna...",
     media: {
       type: "image",
-      url: "../assets/IMG-20241208-WA0068.jpg",
-      thumbnail: "../assets/IMG-20241208-WA0068.jpg",
+      url: "/src/assets/IMG-20241208-WA0068.jpg",
+      thumbnail: "/src/assets/IMG-20241208-WA0068.jpg",
     },
   },
   {
@@ -152,8 +152,8 @@ const timelineEvents = [
     description: "Us din tak humne thode aur chhote trips kiye, just to spend a little more time together before going back home. 🧳⛰️ Hum dono ko pata tha ki fir se long distance start hone wala hai… and honestly, wohi sabse tough part hota hai. Goodbyes kabhi easy nahi hote, especially jab tumhe pata ho ki phir se screen ke peeche chala jayega sab. But even then, we tried to smile, because those last few days were ours — simple, peaceful, and full of warmth.",
     media: {
       type: "image",
-      url: "../assets/IMG-20241208-WA0065.jpg",
-      thumbnail: "../assets/IMG-20241208-WA0065.jpg",
+      url: "/src/assets/IMG-20241208-WA0065.jpg",
+      thumbnail: "/src/assets/IMG-20241208-WA0065.jpg",
     },
   },
   {
@@ -162,8 +162,8 @@ const timelineEvents = [
     description: "Dinner, thoda sa dressing up, thodi masti, thoda romance — sab kuch simple tha, but perfect in its own way. Us raat ka feel hi alag tha... jaise hum dono ne consciously time slow kar diya ho, taaki har moment ko ache se jee sakein. Tumhara saath, woh laughter, woh pal — everthing was magicall kuttu. ❤️ It wasn’t just about a fancy dinner, it was about celebrating us — before life phir se busy aur distant ho jaaye.",
     media: {
       type: "image",
-      url: "../assets/places/datenight.jpg",
-      thumbnail: "../assets/places/datenight.jpg",
+      url: "/src/assets/places/datenight.jpg",
+      thumbnail: "/src/assets/places/datenight.jpg",
     },
   },
   {
@@ -172,8 +172,8 @@ const timelineEvents = [
     description: "After everything — the long-distance, the wait, the calls — finally spending one peaceful evening together felt really special. Hum dono ne thoda sa time nikala sirf ek dusre ke liye. No distractions, no phone scrolls… bas hum. That night didn’t need filters, fancy lights or drama. It was real. And real is always the most romantic. 💬🌌",
     media: {
       type: "image",
-      url: "../assets/IMG-20241208-WA0093.jpg",
-      thumbnail: "../assets/IMG-20241208-WA0093.jpg",
+      url: "/src/assets/IMG-20241208-WA0093.jpg",
+      thumbnail: "/src/assets/IMG-20241208-WA0093.jpg",
     },
   },
   {
@@ -182,7 +182,7 @@ const timelineEvents = [
     description: "Tumhari cute cute photos/videos mujhe bhejna, Mujhe pareshan karna, masti karna — Jabki hum long distance mein the, Phir bhi humne har din ek doosre ke liye efforts kiye. ❤️✨ Distance ho ya doori, pyar kabhi kam nahi hota. 🌍💞",
     media: {
       type: "image",
-      url: "../assets/IMG-20241127-WA0002.jpg",
+      url: "/src/assets/IMG-20241127-WA0002.jpg",
       thumbnail: "",
     },
   },
@@ -192,8 +192,8 @@ const timelineEvents = [
     description: "Tumhara video call pe mujhse baat karte karte so jaana 😴📱 Aur fir neend mein kuch na kuch cute sa bolna 💬 Yrrrrr… kitni pyaari lagti ho tum uss waqt, kasam se! 💖😚",
     media: {
       type: "image",
-      url: "../assets/Screenshot_20241119-002233_Instagram.png",
-      thumbnail: "../assets/Screenshot_20241119-002233_Instagram.png",
+      url: "/src/assets/Screenshot_20241119-002233_Instagram.png",
+      thumbnail: "/src/assets/Screenshot_20241119-002233_Instagram.png",
     },
   },
   {
@@ -212,8 +212,8 @@ const timelineEvents = [
     description: "That day we captured forever in motion, a memory that makes my heart race every time.",
     media: {
       type: "video",
-      url: "../assets/places/PXL_20250318_162804450~3.mp4",
-      thumbnail: "../assets/places/PXL_20250318_162804450~3.mp4",
+      url: "/src/assets/places/PXL_20250318_162804450~3.mp4",
+      thumbnail: "/src/assets/places/PXL_20250318_162804450~3.mp4",
     },
   },
   {
@@ -222,8 +222,8 @@ const timelineEvents = [
     description: "Pehle tum mujhe virtual kisses karti this aur kabhi nahi bhoolti thi 😚💋 Par ab... sab kuch dheere dheere kam sa ho gaya hai 😞💭 Sach mein, wo chhoti chhoti cheezein bhi kitna special feel karwati thi 💌✨ Ab unki thodi kami si mehsoos hoti hai...",
     media: {
       type: "video",
-      url: "../assets/VID-20240819-WA0016.mp4",
-      thumbnail: "../assets/places/kuttu expression.jpg",
+      url: "/src/assets/VID-20240819-WA0016.mp4",
+      thumbnail: "/src/assets/places/kuttu expression.jpg",
     },
   },
 ];
@@ -264,7 +264,7 @@ const PhotoAlbum = () => {
   const bookControls = useAnimation();
   const [albumPages, setAlbumPages] = useState(initialAlbumPages);
 
-  const pageFlipSound = new Audio('../assets/page-flip-01a.mp3');
+  const pageFlipSound = new Audio('/src/assets/page-flip-01a.mp3');
 
   const Modal = ({
     isOpen,
